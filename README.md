@@ -1,1 +1,2 @@
 test icerik
+guncelleme getirdik.
